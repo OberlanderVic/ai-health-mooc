@@ -4,13 +4,14 @@
 Normal text. \
 *Italic* \
 **Bold** \
-`code`
+`Code`
 
 Bullet list:
-- item
-- item
+- Item
+- Item
 
 Numbered list:
-1. item
-2. item
+1. Item
+2. Item
 
+Some changes!
