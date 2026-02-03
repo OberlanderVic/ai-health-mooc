@@ -1,0 +1,31 @@
+<p>Pac-man is a video game designed by Toru Iwataki in 1980 and developed by
+  Namco which shaped generations while impacting pop culture like few games ever
+  did. Almost five decades have passed since the first arcade store opened its
+  doors to welcome gamers who wanted to immerse themselves in this colourful
+  arcade hunting game. Nowadays, though, Pac-Man's impact has expanded from
+  arcade game machines to university amphitheaters as a way to study the very
+  nature of Pac-Man's existential problem: finding the best path across the maze
+  that yields the highest score while avoiding the ghosts.</p>
+<p>In this section, we will take a brief look at the main concepts of the
+  <strong>pathfinding problem</strong>, analyse the basic obstacles, and propose
+  some tactics that can help Pac-Man emerge victorious from different mazes. To
+  do that, we will follow the structure of Berkeley's course on Pac-man,
+  covering the relevant notions and definitions.</p>
+<p></p>
+<div class="anh-collapsible-header anh-recap" tabindex="0" role="button"
+  aria-expanded="false">Quick reminder - Book navigation</div>
+<div class="anh-collapsible-content anh-recap" tabindex="0" role="button"
+  aria-expanded="false">
+  <p>You can navigate through the book using the arrows on each side of the page
+    or by selecting chapters from the book’s index in the expandable menu on the
+    right.</p>
+</div>
+<div class="anh-collapsible-header anh-reading" tabindex="0" role="button"
+  aria-expanded="false">References</div>
+<div class="anh-collapsible-content anh-reading">
+  <ul>
+    <li><a
+        href="https://inst.eecs.berkeley.edu/~cs188/fa24/projects/">CS188</a>,
+      UC Berkeley, 2024</li>
+  </ul>
+</div>
